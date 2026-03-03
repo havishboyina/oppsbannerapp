@@ -1,6 +1,6 @@
 public class oppsbannerappuc5 {
     public static void main(String[] args) {
-        
+         
         String symbol = "*";
         int length = 20;
 
